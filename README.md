@@ -13,10 +13,9 @@ This project aims to analyse the company data and generate insights that the Pal
 4. A recent regulation was adopted which requires manufacturing companies to pay
 employees a minimum of $90,000
 - Does Palmoria meet this requirement?
-● Show the pay distribution of employees grouped by a band of $10,000. For example:
-● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000,
-etc.?
-● Also visualize this by regions
+- Show the pay distribution of employees grouped by a band of $10,000. For example:
+- How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.
+- Also visualize this by regions
 
 ## Data Sources
 
@@ -27,6 +26,6 @@ Microsoft Power BI for Data transformation and analysis [Download here](https://
 
 ## Data Cleaning and Preparation
 1. There are two genders in the organization. However, some employees refused to disclose their gender and N/A was applied as a generic gender status to these employees.
-2. Some employees were taken out from the dataset because they were without a salary because they were no longer with the company.
+2. Some employees were taken out from the dataset because they were without a salary, which indicated that they were no longer with the company.
 3. Lastly, some departments were taken out because they indicated as “NULL”.
 All these reduced the dataset from over a thousand (+1000) rows, to eight hundred and ninety nine (899).
