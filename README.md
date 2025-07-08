@@ -29,3 +29,5 @@ Microsoft Power BI for Data transformation and analysis [Download here](https://
 2. Some employees were taken out from the dataset because they were without a salary, which indicated that they were no longer with the company.
 3. Lastly, some departments were taken out because they indicated as “NULL”.
 All these reduced the dataset from over a thousand (+1000) rows, to eight hundred and ninety nine (899).
+
+## Interpretation of Results
