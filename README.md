@@ -17,9 +17,9 @@ employees a minimum of $90,000
 - How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.
 - Also visualize this by regions.
 5. 	The annual bonus pay to employees based on the performance rating (using bonus rules made available by the company)
-a.	Calculate the amount to be paid as a bonus to individual employees.
-b.	Calculate the total amount to be paid to individual employees (salary inclusive of bonus) 
-c.	Total amount to be paid out per region and company-wide.
+- Calculate the amount to be paid as a bonus to individual employees.
+- Calculate the total amount to be paid to individual employees (salary inclusive of bonus)
+- Total amount to be paid out per region and company-wide.
 
 ## Data Sources
 
@@ -40,5 +40,10 @@ https://github.com/GreatTaiwo/DSA-Case-Study-3-/blob/main/Palmoria%20Group%20Rep
 ## Data Analysis 
 
 The cleaned data was worked on by creating charts were necessary and creating conditional columns as in the case of salary band, salary band sort (to arrange the salary band from low range to the highest range). To work on the bonus rules made available, the data was worked on in Excel, using VLOOKUP to determine the value of bonus to be assigned to each employee based on the ratings. The Bonus amount was achieved by using = [salary]*[Bonus value], while the total amount was achieved using = [salary]*[Bonus value]+[salary]. The gender distribution by region and department was described with clustered column chart, focus was on those that specified their gender, although the chart showed those that did not.
-The gender distribution in regions showed that Kaduna branch had more males (172) than females (151) while Abuja had equal gender and Lagos having three (3) males more than the females, which can be said to be balanced unlike Kaduna with twenty-one (21) differences. This could be due to distance, it is usually convenient for men to work far from home, which might not be convenient for women especially if married. The following departments had more males than females (differences are in bracket): Legal (8), Sales (7), Support (11), Accounting (9). Females were more in Research & Development (4), Human Resource (4), Business Development (5), Services (4). Differences in salary was discovered among genders, males were well paid in certain departments such as legal, product management, support, sales, and accounting. There are some departments where females had more salary but the difference between males was not much. The company have to work on those department where there is gender pay gap and try to balance their pay by probably training the females if they believe the males are more skilled. Although the ratings showed that females were rated better than males which should mean more pay but that is not the case. Finally, the Palmoria group did not meet the requirement of a minimum salary of $90,000, this is evident in the minimum salary chart, showing that some employees received lower than $90,000.
+
+The gender distribution in regions showed that Kaduna branch had more males (172) than females (151) while Abuja had equal gender and Lagos having three (3) males more than the females, which can be said to be balanced unlike Kaduna with twenty-one (21) differences. This could be due to distance, it is usually convenient for men to work far from home, which might not be convenient for women especially if married. The following departments had more males than females (differences are in bracket): Legal (8), Sales (7), Support (11), Accounting (9). Females were more in Research & Development (4), Human Resource (4), Business Development (5), Services (4).
+
+Differences in salary was discovered among genders, males were well paid in certain departments such as legal, product management, support, sales, and accounting. There are some departments where females had more salary but the difference between males was not much. The company have to work on those department where there is gender pay gap and try to balance their pay by probably training the females if they believe the males are more skilled. Although the ratings showed that females were rated better than males which should mean more pay but that is not the case.
+
+Finally, the Palmoria group did not meet the requirement of a minimum salary of $90,000, this is evident in the minimum salary chart, showing that some employees received lower than $90,000.
 
