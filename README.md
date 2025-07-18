@@ -34,7 +34,7 @@ Microsoft Power BI for Data transformation and analysis [Download here](https://
 2. Conditional column was created for gender, where all blanks under the initial gender were made N/A (Not applicable) as a generic gender status to these employees that did not mention and others remained the same (Female/Male).
 3. Some employees were taken out from the dataset because they were without a salary, which indicated that they were no longer with the company.
 4. Lastly, some departments were taken out because they were indicated as "NULL".
-All these reduced the dataset from over a thousand (+1000) rows, to eight hundred and ninety nine (874). To access the document used to run this analyse, kindly find below:
+All these reduced the dataset from over a thousand (+1000) rows, to eight hundred and ninety nine (874). To access the document used to run this analysis, kindly find below:
 https://github.com/GreatTaiwo/DSA-Case-Study-3-/blob/main/Palmoria%20Group%20Report.pbix
 
 ## Data Analysis 
