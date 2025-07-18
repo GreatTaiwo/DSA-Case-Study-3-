@@ -6,7 +6,7 @@ This is a project from Digital Skillup Africa (DSA) Data Analysis Class with the
 
 ### Project Overview
 
-The company under review is the Palmoria Group; a manufacturing company that has been accused as a manufacturing patriarchy with gender pay gaps, amongst other possible issues. As a HR analytic expert, the company’s HR data was analysed, to come up with recommendations for management’s attention. This project aims to analyse the company data and generate insights that the Palmoria group management team would need to address, with focus on gender-related issues within the organization and its regions. The following are the analysis tasks:
+The company under review is the Palmoria Group; a manufacturing company that has been tagged a manufacturing patriarchy with gender pay gaps, amongst other possible issues. As a HR analytic expert, the company’s HR data was analysed, to come up with recommendations for management’s attention. This project aims to analyse the company data and generate insights that the Palmoria group management team would need to address, with focus on gender-related issues within the organization and its regions. The following are the analysis tasks:
 1. What is the gender distribution in the organization? Distil to regions and departments
 2. Show insights on ratings based on gender
 3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management
