@@ -23,7 +23,7 @@ employees a minimum of $90,000
 
 ## Data Sources
 
-The primary source of the data used were Palmoria Group emp-data, and Palmoria Group Bonus Rules, a Microsoft Excel (.xls) Worksheet. 
+The primary source of the data used were Palmoria Group emp-data, and Palmoria Group Bonus Rules, a Microsoft Excel (.xlsx) file. 
 
 ## Tools Used
 Microsoft Power BI for Data transformation and analysis [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) or install directly from Microsoft store, which is strongly adviced.
